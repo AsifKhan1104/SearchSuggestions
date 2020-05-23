@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search Suggestions</string>
+    <string name="search_address">Search Address</string>
+    <string name="no_internet_msg"><![CDATA[Please check your internet connection & try again.]]></string>
+    <string name="nothing_found">No match found</string>
+    <string name="request_fail_msg">Oops!! Something went wrong. Please try again later.</string>
+</resources>
